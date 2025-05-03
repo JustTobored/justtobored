@@ -17,10 +17,41 @@ justtobored.vercel.app
 
 ---
 
-![Followers](https://img.shields.io/github/followers/justtobored?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff&label=Followers)
-![Stars](https://img.shields.io/github/stars/justtobored?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff&label=Stars)
-![Website](https://img.shields.io/badge/Website-justtobored.dev-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff)
+<div align="center">
 
+<pre>
+  ______           _      _     _              _                  
+ |  ____|         (_)    | |   | |            (_)                 
+ | |__   _ __ ___  _  ___| |__ | | ___  ___ ___ _  ___  _ __  ___ 
+ |  __| | '_ ` _ \| |/ __| '_ \| |/ _ \/ __/ __| |/ _ \| '_ \/ __|
+ | |____| | | | | | | (__| | | | |  __/\__ \__ \ | (_) | | | \__ \
+ |______|_| |_| |_|_|\___|_| |_|_|\___||___/___/_|\___/|_| |_|___/
+</pre>
+
+<h3><code>$ reverse engineer | c++ coder | memory freak </code></h3>
+
+<br/>
+
+🛠️ I break binaries and build tools  
+🧪 Debugger enthusiast — GDB, Ghidra, Radare2  
+📚 Learning low-level systems, one disasm at a time  
+💻 I live in terminals and hex editors  
+🔥 Passionate about cracking, emulation, and writing clean C++  
+
+<br/>
+
+---
+
+🧠 **Tech Stack**
+
+```txt
+C++     ━━━━━━━━━━━━━━━━ ████████████████████████████  
+x86 ASM ━━━━━━━━━━━━━━━━ █████████████████████████  
+Ghidra  ━━━━━━━━━━━━━━━━ ███████████████████████  
+Linux   ━━━━━━━━━━━━━━━━ ████████████████████
+🔗 Website → justtobored.dev
+🧠 GitHub → github.com/justtobored
+```
 
 ---
 
