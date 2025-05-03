@@ -19,27 +19,6 @@ justtobored.vercel.app
 
 <div align="center">
 
-<pre>
-  ______           _      _     _              _                  
- |  ____|         (_)    | |   | |            (_)                 
- | |__   _ __ ___  _  ___| |__ | | ___  ___ ___ _  ___  _ __  ___ 
- |  __| | '_ ` _ \| |/ __| '_ \| |/ _ \/ __/ __| |/ _ \| '_ \/ __|
- | |____| | | | | | | (__| | | | |  __/\__ \__ \ | (_) | | | \__ \
- |______|_| |_| |_|_|\___|_| |_|_|\___||___/___/_|\___/|_| |_|___/
-</pre>
-
-<h3><code>$ reverse engineer | c++ coder | memory freak </code></h3>
-
-<br/>
-
-🛠️ I break binaries and build tools  
-🧪 Debugger enthusiast — GDB, Ghidra, Radare2  
-📚 Learning low-level systems, one disasm at a time  
-💻 I live in terminals and hex editors  
-🔥 Passionate about cracking, emulation, and writing clean C++  
-
-<br/>
-
 ---
 
 🧠 **Tech Stack**
