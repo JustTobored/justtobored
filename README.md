@@ -1,70 +1,22 @@
-# 🖥️ Terminal UI Tool
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/style-TUI-black?style=flat-square&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/theme-dark-white?style=flat-square" />
-  <img src="https://img.shields.io/github/license/justtobored/project-name?style=flat-square" />
-</p>
-
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│    ████████╗██╗   ██╗██╗██████╗ ███████╗    │
-│    ╚══██╔══╝██║   ██║██║██╔══██╗██╔════╝    │
-│       ██║   ██║   ██║██║██████╔╝█████╗      │
-│       ██║   ██║   ██║██║██╔═══╝ ██╔══╝      │
-│       ██║   ╚██████╔╝██║██║     ███████╗    │
-│       ╚═╝    ╚═════╝ ╚═╝╚═╝     ╚══════╝    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-> A minimalist terminal UI tool for efficient productivity.  
-> Lightweight. Clean. Focused.
 
 ---
 
-## ⚙️ Features
-
-- Pure TUI design  
-- No dependencies  
-- Configurable keybindings  
-- Works in dark terminals  
+[![GitHub followers](https://img.shields.io/github/followers/justtobored?style=for-the-badge&color=555)](https://github.com/justtobored?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/justtobored?style=for-the-badge&color=555)](https://github.com/justtobored?tab=repositories)
+[![Visits Badge](https://komarev.com/ghpvc/?username=justtobored&style=for-the-badge&color=555)](https://github.com/justtobored)
 
 ---
 
-## 🧰 Installation
+### 🧠 GitHub Stats
 
-```bash
-git clone https://github.com/justtobored/project-name
-cd project-name
-chmod +x tui-app
-./tui-app
-```
+![justtobored's GitHub stats](https://github-readme-stats.vercel.app/api?username=justtobored&show_icons=true&theme=dark&border_radius=10&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justtobored&layout=compact&theme=dark&border_radius=10&hide_border=true)
 
 ---
 
-## 🖼️ Screenshot
+🔗 **Website**: [https://justtobored.dev](https://justtobored.dev)
 
-```
-┌────────────────────────────────────────┐
-│ File  Edit  View  Help                 │
-│ ───────────────────────────────────── │
-│ > _                                    │
-│                                        │
-│                                        │
-└────────────────────────────────────────┘
-```
-
----
-
-## 🧑‍💻 Author
-
-**justtobored**  
-[GitHub](https://github.com/justtobored)
-
----
-
-## ⚖️ License
-
-MIT — use responsibly.
+</div>
