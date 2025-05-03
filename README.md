@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre lang="md"><code>``` 
+<pre  align="center" lang="md"><code>``` 
  
   _____                   __    __    __                              __     
 /\___ \                 /\ \__/\ \__/\ \                            /\ \    
