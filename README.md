@@ -14,28 +14,4 @@ justtobored.vercel.app
  
  ``` </code></pre>
 
-
----
-
-<div align="center">
-
----
-
-🧠 **Tech Stack**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-### 🧠 GitHub Stats
-
-![justtobored's GitHub stats](https://github-readme-stats.vercel.app/api?username=justtobored&show_icons=true&theme=dark&border_radius=10&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justtobored&layout=compact&theme=dark&border_radius=10&hide_border=true)
-
----
-
-🔗 **Website**: [https://justtobored.dev](https://justtobored.dev)
-
 </div>
