@@ -17,9 +17,10 @@ justtobored.vercel.app
 
 ---
 
-![Followers](https://img.shields.io/github/followers/justtobored?style=for-the-badge&color=111111)
-![Stars](https://img.shields.io/github/stars/justtobored?style=for-the-badge&color=1a1a1a)
-![Website](https://img.shields.io/badge/Website-justtobored.dev-000000?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/justtobored?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff&label=Followers)
+![Stars](https://img.shields.io/github/stars/justtobored?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff&label=Stars)
+![Website](https://img.shields.io/badge/Website-justtobored.dev-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff)
+
 
 ---
 
